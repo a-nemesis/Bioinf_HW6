@@ -1,0 +1,3 @@
+Данные BLOSUM62: Bit Score=115, E-value=9e-35, Query Cover=95%, Identity=43.15%
+Данные PAM30: Bit Score=119, E-value=2e-29, Query Cover=97%, Identity=41.61%
+PAM30 используется для поиска эволюционно близких белков, а BLOSUM62 - более далеких. В PAM30 больше штрафы за несовпадения, значит, больше Raw Score и E-value меньше, что мы и видим.
